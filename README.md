@@ -1,4 +1,7 @@
 # M5Template-C-CPP
+
+### SKU:xxx
+
 Template for M5Stack C and CPP projects.
 
 ## Steps
