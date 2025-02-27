@@ -20,9 +20,9 @@ Description of the product
 
 ## Remaining steps(Editorial Staff Look,After following the steps, remember to delete all the content below)
 
-1. Change [clang format check path](./.github/workflows/clang-format-check.yml#L9-L15).
+1. Change [clang format check path](./.github/workflows/clang-format-check.yml#L42-L47).
 2. Add License content to [LICENSE](/LICENSE).
-3. Change link on line 78 of [bug-report.yml](./.github/ISSUE_TEMPLATE/bug-report.yml#L78).
+3. Change link on line 78 of [bug-report.yml](./.github/ISSUE_TEMPLATE/bug-report.yml#L79).
 
 ```cpp
 Example
